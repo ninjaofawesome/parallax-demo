@@ -11,8 +11,4 @@ $(document).ready(function(){
     });
   );
 
-  //this is for IE
-  // document.createElement("article");
-  // document.createElement("section");
-
 });
